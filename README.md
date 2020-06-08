@@ -4,7 +4,7 @@ This is a simple computational logic infraestructure to read result files produc
 
 ## Installation
 
-1. Install MySQL, developement used MySQL 8.0.19
+1. Install MySQL, We used for developement MySQL 8.0.19
 2. Create the new database COVID19qRTPCR:
 
 `create database COVID19qRTPCR;`
